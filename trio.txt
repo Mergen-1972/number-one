@@ -1,0 +1,19 @@
+
+
+	https://petfriends.skillfactory.ru/api/pets?filter=my_pets
+	запрос списка своих животных
+
+
+	https://petfriends.skillfactory.ru/all_pets
+
+	https://petfriends.skillfactory.ru/all_pets
+
+	https://petfriends.skillfactory.ru/my_pets
+
+"key": "0e03454b16833fea0d815abb948350b4ee51a419dac04d15e7b9f8a6"
+
+	https://petfriends.skillfactory.ru/login
+
+	https://petfriends.skillfactory.ru/all_pets
+
+	
