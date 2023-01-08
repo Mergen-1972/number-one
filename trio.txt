@@ -1,5 +1,5 @@
 
-
+fgdrtgfgdrgdfgdfg
 	https://petfriends.skillfactory.ru/api/pets?filter=my_pets
 	запрос списка своих животных
 
